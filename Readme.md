@@ -1,0 +1,1 @@
+Projeto consiste em criar uma lista de compras de mercado utilizando o HTML e CSS puro.

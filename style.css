@@ -1,0 +1,27 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+  font-size: 48px;
+  color: #C44900;
+  font-weight: bold;
+}
+
+hr{
+  height: 10px;
+  background-color: black;
+  border: none;
+}
+
+body {
+  background-color: #f0f8ff;
+}
+
+div {
+  color: black;
+  font-size: 28px;
+}
+
+
